@@ -1,5 +1,5 @@
 {
-    "name": "Adrawyn/pterodactyl-sdk",
+    "name": "hcgcloud/pterodactyl-sdk",
     "description": "Pterodactyl PHP SDK",
     "keywords": ["pterodactyl", "sdk", "php"],
     "license": "MIT",
