@@ -1,5 +1,5 @@
 {
-    "name": "hcgcloud/pterodactyl-sdk",
+    "name": " Adrawyn/pterodactyl-sdk",
     "description": "Pterodactyl PHP SDK",
     "keywords": ["pterodactyl", "sdk", "php"],
     "license": "MIT",
@@ -16,7 +16,7 @@
     "require": {
         "php": ">=5.6.4",
         "guzzlehttp/guzzle": "~6.0",
-        "illuminate/support": "5.7.*"
+        "illuminate/support": "6.*"
     },
     "require-dev": {
         "mockery/mockery": "0.9.*",
